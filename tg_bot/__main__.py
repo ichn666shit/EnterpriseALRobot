@@ -50,7 +50,7 @@ from tg_bot.modules.language import gs
 
 PM_START_TEXT = """
 Hi {}, my name is {}!
-I am an Anime themed group management bot with some fun extras [;)](https://telegra.ph/file/095d7e696096e21b06447.jpg)
+I am a group management bot with some fun extras [;)](https://telegra.ph/file/96e6312a051763fcc4419.jpg)
 
 You can find the list of available commands with /help.
 """
@@ -68,7 +68,7 @@ the things I can help you with.
  \nClick on the buttons below to get documentation about specific modules!"""
 
 
-KIGYO_IMG = "https://telegra.ph/file/e5100e06c03767af80023.jpg"
+KIGYO_IMG = "https://telegra.ph/file/96e6312a051763fcc4419.jpg"
 
 
 IMPORTED = {}
